@@ -46,7 +46,8 @@ nav a {
   padding: 24px 32px;
 }
 
-nav a:hover {
+nav a:hover,
+nav .selected a {
   background: black;
   color: white;
 }
