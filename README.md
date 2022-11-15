@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Screenshots
+
+### Articles Page without user login
+
+![Alt text](src/assets/Article_Page.png?raw=true 'Optional Title')
+
+### Articles Page with user login
+
+![Alt text](src/assets/ArticlePageWithLogin.png?raw=true 'Optional Title')
+
+### Articles Page with upvotes and comments
+
+![Alt text](src/assets/ArticlePageWithUpvoteandComments.png?raw=true 'Optional Title')
+
 ## Available Scripts
 
 In the project directory, you can run:
